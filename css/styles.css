@@ -74,7 +74,7 @@ hr{
 .bottom-cloud{
     position:absolute;
     bottom :300px;
-    left:250px;
+    left:220px;
     max-width:100%;
 }
 .skill-row{
@@ -130,6 +130,8 @@ hr{
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
   }
+.footer-link::hover{
+    
   .copyright{
       font-size: 70%;
       color: #EAEAF6;
