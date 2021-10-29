@@ -75,6 +75,7 @@ hr{
     position:absolute;
     bottom :300px;
     left:250px;
+    max-width:100%;
 }
 .skill-row{
     width:50%;
